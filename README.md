@@ -39,3 +39,11 @@ python src/main.py
 ```
 
 Le programme affiche un message de bienvenue dans le terminal.
+## 5. Outils utilisés
+
+Les outils utilisés pour réaliser ce projet sont :
+
+- **Python :** langage de programmation utilisé pour développer le programme.
+- **Visual Studio Code :** éditeur de code utilisé pour écrire et modifier les fichiers.
+- **Git :** système de gestion de versions utilisé pour suivre les modifications du projet.
+- **GitHub :** plateforme utilisée pour héberger le dépôt distant et faciliter le partage du projet.
