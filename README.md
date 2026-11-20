@@ -47,3 +47,17 @@ Les outils utilisés pour réaliser ce projet sont :
 - **Visual Studio Code :** éditeur de code utilisé pour écrire et modifier les fichiers.
 - **Git :** système de gestion de versions utilisé pour suivre les modifications du projet.
 - **GitHub :** plateforme utilisée pour héberger le dépôt distant et faciliter le partage du projet.
+
+## 6. Cloner le projet
+
+La commande `git clone` permet de récupérer une copie locale d'un dépôt distant hébergé sur GitHub.
+
+Pour cloner ce projet, exécuter la commande suivante dans un terminal :
+
+```bash
+git clone https://github.com/TON_USERNAME/atelier-gl-module1.git
+```
+
+Remplacer `TON_USERNAME` par le nom d'utilisateur GitHub du propriétaire du dépôt.
+
+Après le clonage, un dossier contenant les fichiers du projet ainsi que son historique Git est créé sur l'ordinateur.
